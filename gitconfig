@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = wilson.bay8@gmail.com
+	name = wilson bay
